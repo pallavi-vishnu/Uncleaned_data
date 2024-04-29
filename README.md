@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pallavi-vishnu
-- 👀 I’m a law graduate with 12+ years of experience
+- 👀 I’m a law graduate with 8+ years of experience and a self taught Data Analyst
 - 🌱 I’m currently learning  Data science with Python, SQL
 - 📫 How to reach me my mail id is pallavi.vishnu9@gmail.com
 
