@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @pallavi-vishnu
-- 👀 I’m a law graduate with 8+ years of experience and a self taught Data Analyst
-- 🌱 I’m currently learning  Data science with Python, SQL
-- 📫 How to reach me my mail id is pallavi.vishnu9@gmail.com
+Hi I'm a self taught data analyst. Here I have tried to clean some data. 
 
-<!---
-pallavi-vishnu/pallavi-vishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I have downloaded this dataset form kaggle. Find the link to this dataset below👇🏽
+[kaggle datasets download -d brianmendieta/uncleaned-data](https://www.kaggle.com/datasets/brianmendieta/uncleaned-data)
